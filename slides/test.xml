@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slides>
+<slide text="text1.txt"> <picture name="graph.png" number="1"/> </slide>
+<slide text="text2.txt"> </slide>
+<slide text="text3.rtf"> <picture name="test.png" number="2"/> </slide>
+<slide text="text4.rtf"> <picture name="test.png" number="2"/> </slide>
+<slide text="text2.txt"> </slide>
+</slides>
